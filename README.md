@@ -2,15 +2,12 @@
 
 This project applies statistical and machine learning methods to analyze a real-world credit card customer dataset. The goal is to test two business-critical hypotheses related to **credit limit determination** and **customer attrition risk** — helping financial institutions make better data-driven decisions.
 
-📄 Report: [LINK](https://github.com/shreyasah99/Hypothesis-Driven-Analysis-on-Credit-Limits-and-Attrition/blob/main/final%20project%20report.pdf)  
-📊 Presentation: [LINK](https://github.com/shreyasah99/Hypothesis-Driven-Analysis-on-Credit-Limits-and-Attrition/blob/main/Ppt%20PDF.pdf)
-
 
 ---
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [What We Did](#what-we-did)
+- [What I Did](#what-we-did)
 - [Dataset Overview](#dataset-overview)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Hypothesis 1: Gender and High Credit Limit](#hypothesis-1-gender-and-high-credit-limit)
@@ -30,7 +27,7 @@ This project analyzes credit card customer information to uncover insights using
 
 ---
 
-## 🛠️ What We Did
+## 🛠️ What I Did
 
 - Cleaned and preprocessed a credit card customer dataset
 - Conducted Exploratory Data Analysis (EDA)
@@ -126,15 +123,6 @@ This project analyzes credit card customer information to uncover insights using
   - Add longitudinal data
   - Use external financial indicators
   - Try advanced ML models like Random Forest or XGBoost
-
----
-
-## 👥 Team
-
-- Nayan Bhiwapurkar  
-- Kaumudi Patil  
-- Shreyas Hingmire  
-- Sharan Patel  
 
 ---
 
